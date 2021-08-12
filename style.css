@@ -1,0 +1,104 @@
+body
+{
+background-image: url("imagenes/fondo.jpg");
+}
+
+#tope{
+  background: url("imagenes/fondotabla.jpg");
+ border: green 6px solid;
+ width:90%;
+ border-collapse: collapse;
+ text-align: center;
+}
+h2{
+  font: 130% Bahnschrift SemiBold;
+  margin-left: 500px;
+  color: 75b4cd;
+  text-align: left;
+}
+
+#titulo{
+  background: url("imagenes/fondotabla.jpg");
+  border: hidden ;
+ width:90%;
+ border-collapse: collapse;
+ text-align: center;
+}
+
+#txt1
+{
+  text-align: right;
+}
+#txt2
+{
+  text-align: left;
+}
+
+#medio{
+background: url("imagenes/fondotabla.jpg");
+ border: 8px solid;
+ width:90%;
+ height:45%;
+ border-collapse: collapse;
+ text-align: center;
+}
+
+
+td, th {
+   border:3px solid;
+  border-collapse: collapse;
+  padding: 10px;
+  width: 30px;
+  height: 25px;
+  
+  }
+
+h1{
+  font: 200% Bahnschrift SemiBold;
+  margin-left: 300px;
+  color: 75b4cd;
+  text-align: left;
+}
+#seg
+{
+  font: 60% Bahnschrift SemiBold;
+  color: FFFFFF;
+  text-align: center;
+  position: absolute;
+  top: 30px;
+  left: 600px;
+  text-align: justify;
+}
+
+
+#ter
+{
+  font: 100% Bahnschrift SemiBold;
+  text-align: center;
+
+}
+#imagen1 {
+    background-image: url("imagenes/sello1.jpg");
+    position: absolute;
+top: 20px;
+left: 90px;
+  width:  260px ;
+  height: 75px;
+}
+#imagen2 {
+    background-image: url("imagenes/sello2.png");
+    position: absolute;
+top: 20px;
+left: 1075px;
+  width:  260px ;
+  height: 75px;
+}
+
+#imagen3 {
+    background-image: url("imagenes/firma.png");
+    position: absolute;
+top: 830px;
+left: 600px;
+  width:  272px ;
+  height: 114px;
+}
